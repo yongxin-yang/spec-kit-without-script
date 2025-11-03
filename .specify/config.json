@@ -1,0 +1,6 @@
+{
+  "feature_directory": "FeatureCatalog",
+  "templates_directory": ".specify/templates",
+  "memory_directory": ".specify/memory",
+  "commands_directory": "commands-zh"
+}
